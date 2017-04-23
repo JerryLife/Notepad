@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\Notepad\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18a0c993ccef157b55c0ae08f64a0ac1e353824b">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e9b323c5a8d4c09cc2c18ab4b2374dc44f8904a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\d8903ec4022664bf9c1daf227812a5454dc72b4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4ae2f8b0aeb807a83f5eaa1d9208bcbaa779a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\c65c65c0ebdfddb867f10e1b06b1666f43cc8a9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb32f254ad23f590d83d4e6cf32e3ba6a085a645\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\8cabbb2882ee2c2673eb1a71555a2587502366b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51e0d5ab5a5693f4bb28c2b593aa47051941e442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\a4c1cffd0ed7da8f4eb44ae0d46253470f44c6c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cbed135484e64a32a9a716c646b17df7e9e865a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\8260de5bd119f70d43b72151cf654acb0d606339\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fad6ceb999bb2d6c36bd0be7b1bb7b8aebebdb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\d55b3fadf82b6c4f7166c7a81020f33d63e6339a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83df3f7a38d02881bde62077d5bfa0d56de6887d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\67ff5e84cebd0bb5e83d90ac3ab3a89d4f5519b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d52a1f4a3faf8b32910a7bd9e9ff61ce0ae82493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\4122b8699f9590a9ed1b03a60711a5ea9070a84d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_937884ffc5176ae38a3167b71fcca92f18ad1be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\67f6c736b2dc2eaa9eee774a01db440f80219467\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2043bf3ae10bf82c02777aa67d24c51cec2e92d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidCode\Notepad\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec068ea79756204e49aae3c68adffed89a5b6e16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\f2567344847fe5991ee187a15c14abe49585d8b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_072fb13d273d83c1de701d40bb6d8ee820a8efb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HUSTW\.android\build-cache\d77051016be30718c1f2ce414b7e1cb45487d97e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\AndroidCode\Notepad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8addaf414cf9f298702753b44f76de4d9e03c80\classes.dex" />
+    </item>
+
+</items>

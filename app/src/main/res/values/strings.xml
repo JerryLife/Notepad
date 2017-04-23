@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search here</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="notes">New Note</string>
+    <string name="title_save">Save</string>
+    <string name="text_hint">Type your notes here</string>
+</resources>
